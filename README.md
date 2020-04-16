@@ -23,6 +23,7 @@
 - CsMigemo.exe
 - CsMigemo.dll
 - CsMigemoCore.dll
+- CsMigemo.runtimeconfig.json
 
 ```
 > ./CsMigemo.exe

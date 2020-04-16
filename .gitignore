@@ -1,0 +1,9 @@
+/CsMigemo/obj
+/CsMigemo/bin
+/CsMigemoCore/obj
+/CsMigemoCore/bin
+/CsMigemoTests/bin
+/CsMigemoTests/obj
+/.vs
+/TestResults
+/CsMigemoTests/TestResults

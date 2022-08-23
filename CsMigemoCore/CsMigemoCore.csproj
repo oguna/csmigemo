@@ -3,6 +3,10 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>CsMigemo</RootNamespace>
+    <Version>0.0.1</Version>
+    <Authors>oguna</Authors>
+    <PackageProjectUrl>https://github.com/oguna/csmigemo</PackageProjectUrl>
+    <PackageLicenseExpression>BSD-3-Clause</PackageLicenseExpression>
   </PropertyGroup>
 
 </Project>

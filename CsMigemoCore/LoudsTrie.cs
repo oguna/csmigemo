@@ -174,7 +174,7 @@ namespace CsMigemo
                 var child_size = child_sizes[i];
                 for (var j = 0; j < child_size; j++) {
                     bit_vector_words[bit_vector_index >> 5] =
-                        bit_vector_words[bit_vector_index >> 5] | (ulong)(1 << (bit_vector_index & 31));
+                        bit_vector_words[bit_vector_index >> 5] | (1UL << (bit_vector_index & 31));
                     bit_vector_index = bit_vector_index + 1;
                 }
             }

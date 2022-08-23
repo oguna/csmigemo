@@ -1,6 +1,8 @@
 # csmigemo
 
 [![.NET](https://github.com/oguna/csmigemo/actions/workflows/dotnet.yml/badge.svg)](https://github.com/oguna/csmigemo/actions/workflows/dotnet.yml)
+![Nuget](https://img.shields.io/nuget/dt/CsMigemo?label=CsMigemo&logo=nuget)
+![Nuget](https://img.shields.io/nuget/dt/CsMigemoCore?label=CsMigemoCore&logo=nuget)
 
 ローマ字のまま日本語をインクリメンタル検索するためのツールであるMigemoを、C#で実装したものです。
 
@@ -36,6 +38,7 @@
 ## ライブラリとして組み込み
 
 以下のDLLファイルを参照に追加します。
+NuGet経由でDLLを追加可能です。
 
 - CsMigemo.dll
 - CsMigemoCore.dll

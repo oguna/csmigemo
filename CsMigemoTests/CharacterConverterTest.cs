@@ -1,4 +1,4 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+Ôªøusing Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace CsMigemo.Tests
 {
@@ -8,9 +8,9 @@ namespace CsMigemo.Tests
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual("ÉA", CharacterConverter.ConvertHira2Kata("Ç†"));
-            Assert.AreEqual("ÉA", CharacterConverter.ConvertHan2Zen("±"));
-            Assert.AreEqual("±", CharacterConverter.ConvertZen2Han("ÉA"));
+            Assert.AreEqual("„Ç¢", CharacterConverter.ConvertHira2Kata("„ÅÇ"));
+            Assert.AreEqual("„Ç¢", CharacterConverter.ConvertHan2Zen("ÔΩ±"));
+            Assert.AreEqual("ÔΩ±", CharacterConverter.ConvertZen2Han("„Ç¢"));
         }
     }
 }

@@ -1,5 +1,7 @@
 # csmigemo
 
+[![.NET](https://github.com/oguna/csmigemo/actions/workflows/dotnet.yml/badge.svg)](https://github.com/oguna/csmigemo/actions/workflows/dotnet.yml)
+
 ローマ字のまま日本語をインクリメンタル検索するためのツールであるMigemoを、C#で実装したものです。
 
 ## テスト

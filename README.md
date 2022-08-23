@@ -1,8 +1,8 @@
 # csmigemo
 
 [![.NET](https://github.com/oguna/csmigemo/actions/workflows/dotnet.yml/badge.svg)](https://github.com/oguna/csmigemo/actions/workflows/dotnet.yml)
-![Nuget](https://img.shields.io/nuget/dt/CsMigemo?label=CsMigemo&logo=nuget&color=blue)
-![Nuget](https://img.shields.io/nuget/dt/CsMigemoCore?label=CsMigemoCore&logo=nuget&color=blue)
+[![Nuget](https://img.shields.io/nuget/dt/CsMigemo?label=CsMigemo&logo=nuget&color=blue)](https://www.nuget.org/packages/CsMigemo/0.0.1)
+[![Nuget](https://img.shields.io/nuget/dt/CsMigemoCore?label=CsMigemoCore&logo=nuget&color=blue)](https://www.nuget.org/packages/CsMigemoCore/0.0.1)
 
 ローマ字のまま日本語をインクリメンタル検索するためのツールであるMigemoを、C#で実装したものです。
 
